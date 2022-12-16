@@ -17,3 +17,10 @@ dev_dependencies:
 
 flutter:
   uses-material-design: true
+  fonts:
+    - family: LaBelleAurore
+      fonts:
+        - asset: fonts/LaBelleAurore-Regular.ttf
+    - family: Caveat
+      fonts:
+        - asset: fonts/Caveat-Regular.ttf
